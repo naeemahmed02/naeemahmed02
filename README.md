@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
 [![alt text][6.1]][6]
 
 
@@ -44,7 +41,7 @@ Here are some ideas to get you started:
 <!-- update these accordingly -->
 
 [1]: http://www.twitter.com/naeem_booher
-[2]: http://www.facebook.com/https://web.facebook.com/naeembooher
+[2]: http://www.facebook.com/naeembooher
 [6]: http://www.github.com/naeemahmed02
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
