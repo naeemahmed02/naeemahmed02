@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <!-- update these accordingly -->
 
 [1]: http://www.twitter.com/naeem_booher
-[2]: https://www.linkedin.com/in/naeem02/
+[2]: https://www.facebook.com/naeem8ahmed
 [6]: http://www.github.com/naeemahmed02
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
