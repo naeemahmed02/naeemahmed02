@@ -4,11 +4,11 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Kaggle](kaggle.com/naeemahmedhaji/)
-- 🌱 I’m currently learning Python and Java
+- 🌱 I’m currently learning Python and Problem Solving Skills
 - 👯 I’m looking to collaborate on Python
-- 🤔 I’m looking for help with Java Swings
+- 🤔 I’m looking for help with Data Analytics
 - 💬 Ask me about Anything
-- 📫 How to reach me: [YouTube Channel](https://www.youtube.com/channel/UCnnSGAtIU8oDKb_44N_5LKg)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/naeem02/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am boring person
 
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <!-- update these accordingly -->
 
 [1]: http://www.twitter.com/naeem_booher
-[2]: http://www.facebook.com/naeembooher
+[2]: https://www.linkedin.com/in/naeem02/
 [6]: http://www.github.com/naeemahmed02
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
