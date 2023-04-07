@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/naeem02/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am boring person
+- ⚡ What I love to do: Cooking
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
